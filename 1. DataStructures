@@ -1,0 +1,21 @@
+# What: DS(DataStructure is method of storing and retriving data)
+# Types: 1. Lenear 2. Non Lenear
+# 1. Linear
+""" 
+    1. Arrays       : Seqential store of data with index
+    2. Linked Lists : Stores data and also previous element link
+    3. Stack        : Stores data in stack and retrive LIFO(Last in First Out)
+    4. Queues       : Stores data in queue and retrive FIFO(First in First Out)
+    5. Matrix       : Two dimentional data storage and they are retrivied using matrix index
+
+# 2. Non Linear
+    1. Tree         : Data stored in nodes and parent node can only have two child nodes
+    2. Graph        ; Data stored in nodes and connect by links
+    3. Heap         : Data stored in nodes, where parent and child node values will be ascending or descending all thru
+    4. Hash Table   : Associative Arrays
+    
+# 3. Python Special Datastructures
+    1. List         ; Similar to Array but can have hetrogenous data types
+    2. Tuples       : Similar to List but immutable
+    3. Dictionary   : Similar to List but data stored in Key and Values
+"""
